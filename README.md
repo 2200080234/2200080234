@@ -10,7 +10,7 @@
 
 ---
 
-# 👨‍💻 About Me
+About Me
 
 ```yaml
 Name: Addanki Venkata Siva
@@ -32,7 +32,7 @@ Current Focus:
 
 ---
 
-# ⚡ Tech Stack
+Tech Stack
 
 <div align="center">
 
@@ -40,7 +40,7 @@ Current Focus:
 
 </div>
 
-### Analytics & Data
+Analytics & Data
 - Power BI
 - SQL
 - Data Modeling
@@ -50,17 +50,17 @@ Current Focus:
 
 ---
 
-# 🚀 Featured Projects
+Featured Projects
 
-## 🚗 AI Vehicle Monitoring System
+AI Vehicle Monitoring System
 AI-driven monitoring solution for intelligent detection and analysis.
 
-**Stack:**  
+Stack: 
 TensorFlow • OpenCV • Flutter • ML
 
 ---
 
-## 🛡 HonestAI — Content Moderation
+HonestAI — Content Moderation
 
 AI-powered moderation platform.
 
@@ -73,7 +73,7 @@ Features:
 
 ---
 
-## 📊 IPL Business Analytics Dashboard
+IPL Business Analytics Dashboard
 
 Interactive dashboard with:
 - Power BI
@@ -83,7 +83,7 @@ Interactive dashboard with:
 
 ---
 
-# 📈 GitHub Stats
+GitHub Stats
 
 <div align="center">
 
@@ -103,16 +103,16 @@ Interactive dashboard with:
 
 ---
 
-# 🏆 Certifications
+Certifications
 
-🏅 Salesforce AI Associate  
-🏅 Oracle Cloud Infrastructure AI Foundation  
-🏅 Aviatrix Multicloud Associate  
-🏅 FinTech Professional
+Salesforce AI Associate  
+Oracle Cloud Infrastructure AI Foundation  
+Aviatrix Multicloud Associate  
+FinTech Professional
 
 ---
 
-# 🌐 Connect
+Connect
 
 <div align="center">
 
@@ -132,7 +132,7 @@ Interactive dashboard with:
 
 ---
 
-# 📌 Current Goal
+Current Goal
 
 Converting ideas into scalable products through AI, Data and DevOps.
 
@@ -140,7 +140,7 @@ Converting ideas into scalable products through AI, Data and DevOps.
 
 <div align="center">
 
-### ⭐ Thanks for visiting
+Thanks for visiting
 
 </div>
 
